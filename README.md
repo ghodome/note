@@ -44,3 +44,7 @@ import의 경우는 직접 작성하지 않고 *****단축키*****인 `ctrl + sh
 
 ![카지노](https://www.ramadajeju.co.kr/RamadaPlazaJeju_common/images/homepage/facilities/CASINO03.jpg)
 
+오늘도 이렇게 공부 끝?
+
+![젠장 또 이렇게](./2223.gif)
+
