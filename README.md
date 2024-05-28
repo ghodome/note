@@ -9,3 +9,11 @@
 1. Random이라는 도구를 생성하여 사용 - Random r = new Random(a)+b;
 2. Math.random() 명령을 사용
 3. SecureRandom 도구를 생성하여 사용
+
+//코드를 입력하는 경우가 생김
+여기서는 Random 도구를 생성합니다.
+
+//코드블럭 표시
+```java
+Random r = new Random();
+```
